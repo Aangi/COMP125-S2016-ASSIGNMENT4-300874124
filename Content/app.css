@@ -5,10 +5,12 @@
 body {
     font-family: 'Open Sans', sans-serif;
     padding-bottom: 70px;
+    background-image: url('http://trunkweed.com/uploads/posts/images/422054-apj-abdul-kalam-wallpaper.jpg');
+
 }
 
 
 #canvas{
-    border: 1px black solid;
+    border: 1px white solid;
     border-radius: 5px;
 }
