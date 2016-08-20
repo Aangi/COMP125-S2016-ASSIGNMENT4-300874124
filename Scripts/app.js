@@ -1,3 +1,11 @@
+/*
+Filename : app.js
+@author Aayushi Shah
+@date August 19,2016
+StudentID : 300874124
+website :http://comp125-s2016-assignment4-300874124.azurewebsites.net/
+@description : This file is the main javascript file for this web site
+*/
 var core;
 (function (core) {
     "use strict";
